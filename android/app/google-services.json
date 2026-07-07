@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "543861227482",
+    "project_id": "progress-2026",
+    "storage_bucket": "progress-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543861227482:android:REPLACE_WITH_YOUR_ANDROID_APP_ID",
+        "android_client_info": {
+          "package_name": "com.progress.progress_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543861227482-REPLACE.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJK2HWCtckJ8IVSASf-ckiiBbX-sLv0oY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543861227482-REPLACE.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
