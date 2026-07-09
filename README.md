@@ -58,7 +58,7 @@ Screenshots coming soon
 | google_fonts Poppins | Typography |
 
 ## Getting Started
-git clone https://github.com/guntimadhu999-glitch/progress_app.git
+git clone https://github.com/guntimadhu/progress_app.git
 cd progress_app
 
 Add your google-services.json from Firebase Console to android/app/
